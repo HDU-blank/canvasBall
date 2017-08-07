@@ -1,3 +1,3 @@
 # canvasBall
 ![](img/canvasBall.gif)
-* #### demo¶¯Í¼¡£
+* #### demoæ¼”ç¤ºæ•ˆæžœå›¾
