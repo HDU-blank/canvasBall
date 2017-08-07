@@ -1,3 +1,3 @@
 # canvasBall
 ![](img/canvasBall.gif)
-* #### 效果演示示意图
+* #### 显示关注列表中离线的主播。
