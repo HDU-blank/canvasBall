@@ -27,8 +27,10 @@ $(function(){
   }); 
   //监听浏览器窗口大小变化
   $(window).resize(function() {
-    myCanvas[0].width = myCanvas[0].offsetWidth;
-    myCanvas[0].height = myCanvas[0].offsetHeight;
+    width = myCanvas[0].offsetWidth;
+    height = myCanvas[0].offsetHeight;
+    myCanvas[0].width = width;
+    myCanvas[0].height = height;
     init();
   });
   //设置圆点对象构造函数
