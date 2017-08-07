@@ -1,3 +1,3 @@
 # canvasBall
 ![](img/canvasBall.gif)
-* #### demo演示示意图。
+* #### demo动图。
