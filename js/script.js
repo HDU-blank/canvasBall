@@ -1,7 +1,7 @@
 $(function(){
   var colorArray = ["#F6D600","#1F6ED4","#F70044","#35CE8D","#9068BE"];
   var maxRadius = 45;
-  var myCanvas = $("#myCanvas"),
+  var myCanvas = $("#my-canvas"),
   //  计算画布的宽高
   width = myCanvas[0].offsetWidth,
   height = myCanvas[0].offsetHeight,
